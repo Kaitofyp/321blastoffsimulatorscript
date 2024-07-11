@@ -255,8 +255,4 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1.92334
     print('Hello!')
 end)
 
-local tab = DrRayLibrary.newTab("Other", "ImageIdHere")
-
-tab.newButton("Subcribe", "THANKS FOR SUBSCRIBE!", function()
-    print('Hello!')
-end)
+local tab = DrRayLibrary.newTab("SUBSCRIBE", "ImageIdHere")
