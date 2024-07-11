@@ -257,8 +257,6 @@ end)
 
 local tab = DrRayLibrary.newTab("Other", "ImageIdHere")
 
-tab.newButton("Button", "Click to Subscribe Kaito!", function()
-
-https://m.youtube.com/channel/UCxpI1RHl4dviZzElGPk--2w
+tab.newButton("Subcribe", "THANKS FOR SUBSCRIBE!", function()
     print('Hello!')
 end)
